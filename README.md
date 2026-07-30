@@ -1,4 +1,4 @@
-#🤖 IA Generativa no Desenvolvimento de Software
+# 🤖 IA Generativa no Desenvolvimento de Software
 
 Este projeto foi desenvolvido como parte de um desafio prático da DIO, com o objetivo de explorar a Inteligência Artificial Generativa como ferramenta de aprendizagem ativa e apoio ao desenvolvimento de software.
 O estudo foi realizado utilizando o NotebookLM como ferramenta de organização e análise das fontes selecionadas, com foco em engenharia de prompts, geração de código, debugging, refatoração, testes e pensamento crítico.
