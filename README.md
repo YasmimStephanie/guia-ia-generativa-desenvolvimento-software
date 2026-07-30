@@ -24,3 +24,17 @@ Desenvolver estratégias para revisar e validar respostas produzidas pela IA;
 Documentar experimentos, resultados e dificuldades encontradas;
 Criar uma coleção de prompts reutilizáveis para apoiar atividades de programação;
 Consolidar os conhecimentos em um miniguia prático para uso consciente e estratégico da IA.
+
+## 🧠 Uso do NotebookLM
+
+O NotebookLM foi utilizado como ferramenta de aprendizagem ativa e organização do conhecimento.
+
+As fontes selecionadas foram adicionadas ao notebook e utilizadas para:
+
+- Realizar perguntas sobre os conteúdos;
+- Comparar informações entre diferentes fontes;
+- Identificar conceitos recorrentes;
+- Criar resumos;
+- Explorar aplicações práticas;
+- Elaborar perguntas estratégicas;
+- Validar informações por meio das referências apresentadas.
